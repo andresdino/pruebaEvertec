@@ -81,7 +81,7 @@ Email|Password|Rol|Permisos
  ------ | ------ | ------ | ------ 
 admin@evertec.com|password|SuperAdministrator|Puede realizar todas las acciones disponibles.
 admin_ordenes@evertec.com|password|Ordenes|Tiene permiso para ver todas las ordenes.
-jovel882@gmail.com|123456789|(Ninguno)| Tiene solo acceso a sus ordenes.
+andresdino9ster@gmail.com|123456789|(Ninguno)| Tiene solo acceso a sus ordenes.
 
 ##### Nota: 
 Todos los usuarios que se registren solo pueden interactuar con sus ordenes.
